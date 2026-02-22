@@ -1,2 +1,2 @@
-# game-roo-system
+# game-room-system
 Game Room Management System
